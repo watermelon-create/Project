@@ -1,0 +1,7 @@
+com\mszlu\rpc\proxy\MsHttpClientProxy.class
+com\mszlu\rpc\annontation\MsHttpClient.class
+com\mszlu\rpc\bean\MsBeanDefinitionRegistry$1.class
+com\mszlu\rpc\annotation\EnableHttpClient.class
+com\mszlu\rpc\annotation\MsMapping.class
+com\mszlu\rpc\bean\MsHttpClientFactoryBean.class
+com\mszlu\rpc\bean\MsBeanDefinitionRegistry.class
